@@ -5,12 +5,12 @@ name = "julia"
 light = true
 
 # Primary
-primary = "#8486B2"
+primary = "#4e9fba" # changed it
 
 # Menu
 menu_primary = "#ffffff"
 menu_text = "#333"
-menu_text_active = "#8486B2"
+menu_text_active = "#4e9fba" # changed it
 menu_title = "#333"
 
 # Backgrounds

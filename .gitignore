@@ -10,3 +10,5 @@
 LondonStageFull.json
 LondonStageJSON.zip
 *.csv
+.Rdata
+.DS_Store

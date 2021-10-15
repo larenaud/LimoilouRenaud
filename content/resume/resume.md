@@ -51,11 +51,11 @@ subtitle = ""
 
 
 
-#### Data Scientist & Software Engineer, RStudio
-2020-present
+#### Postdoctoral research fellow, Fisheries and Oceans Canada
+2021-present
 
-#### Technical Advisory Committee Member, Bureau of Labor Statistics
-2019-present
+#### Postdoctoral research fellow, Université de Sherbrooke
+2020-2021
 
 * Advise the Commissioner of Labor Statistics on statistical methodology and other technical matters related to the collection and analysis of BLS data
 
