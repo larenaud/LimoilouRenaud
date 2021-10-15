@@ -61,7 +61,7 @@ education:
     year: 2007
 ---
 
-My name is Limoilou-Amelie Renaud and I am a postdoctoral researcher at the Maurice-Lamontagne Institute of Fisheries & Oceans Canada, where I work on marine mammal ecology. My first name is pronounced 'LEE-MWA-LOO' and you don't pronounce the 'd' at the end of Renaud ('RE-NO'). I love making beautiful charts, the statistical programming language R, Jane Austen, black coffee, and red wine.
+My name is Limoilou-Amelie Renaud and I am a postdoctoral researcher at the Maurice-Lamontagne Institute of Fisheries & Oceans Canada, where I work on marine mammal ecology. My first name is pronounced 'LEE-MWA-LOO' and you don't pronounce the 'd' of Renaud ('RE-NO').
 
 I studied animal ecology, finishing my PhD in 2019. I worked as a part-time lecturer in academia, which I loved, while doing my first postdoc. I recently enrolled as a postdoc at a government institution. You can find me on [Twitter](https://twitter.com/LimoilouR) and [GitHub](https://github.com/larenaud).
 
