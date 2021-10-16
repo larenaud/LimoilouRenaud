@@ -4,7 +4,7 @@ summary: Wrote [_Text Mining with R_](https://www.tidytextmining.com) with David
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://www.tidytextmining.com/
+# external_link: https://www.tidytextmining.com/
 
 image:
   caption: Text Mining with R

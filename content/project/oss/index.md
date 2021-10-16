@@ -4,7 +4,7 @@ summary: Develop R packages for the data science ecosystem, including the [tidyt
 date: "2018-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://github.com/juliasilge
+# external_link: https://github.com/juliasilge
 
 image:
   caption: tidytext
