@@ -1,19 +1,18 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Phenotypic plasticity in bighorn sheep reproductive phenology: from individual
-  to population'
+title: Testing the Match-mismatch Hypothesis in Bighorn Sheep in the Context of Climate
+  Change
 subtitle: ''
 summary: ''
 authors:
-- Limoilou-Amelie Renaud
-- Gabriel Pigeon
+- Limoilou-Amélie Renaud
 - Marco Festa-Bianchet
 - Fanie Pelletier
 tags: []
 categories: []
-date: '2019-04-01'
-lastmod: 2021-10-12T17:52:06-04:00
+date: '2021-10-01'
+lastmod: 2021-10-15T21:03:57-04:00
 featured: false
 draft: false
 
@@ -31,11 +30,10 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T21:52:05.884400Z'
+publishDate: '2021-10-16T01:03:57.215038Z'
 publication_types:
 - '2'
 abstract: ''
-publication: '*Behavioral Ecology and Sociobiology*'
-url_pdf: http://link.springer.com/10.1007/s00265-019-2656-1
-doi: 10.1007/s00265-019-2656-1
+publication: '*Global Change Biology*'
+doi: 10.1111/gcb.15923
 ---

@@ -1,8 +1,8 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: 'Milk composition in a wild mammal: a physiological signature of phenological
-  changes'
+title: 'Milk Composition in a Wild Mammal: A Physiological Signature of Phenological
+  Changes'
 subtitle: ''
 summary: ''
 authors:
@@ -15,7 +15,7 @@ authors:
 tags: []
 categories: []
 date: '2020-06-01'
-lastmod: 2021-10-12T17:52:05-04:00
+lastmod: 2021-10-15T21:03:56-04:00
 featured: false
 draft: false
 
@@ -33,7 +33,7 @@ image:
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
 projects: []
-publishDate: '2021-10-12T21:52:05.239558Z'
+publishDate: '2021-10-16T01:03:56.691474Z'
 publication_types:
 - '2'
 abstract: Understanding how spring phenology influences early life can provide important
@@ -49,8 +49,7 @@ abstract: Understanding how spring phenology influences early life can provide i
   either directly or indirectly through lamb weaning mass. The effect of green-up
   date on milk composition and energy content suggests that herbivores living in seasonal
   environments, such as the bighorn sheep, might rely on a strategy intermediate between
-  ‘capital’ and ‘income’ breeding when energy demands are high.
+  `capital' and `income' breeding when energy demands are high.
 publication: '*Oecologia*'
-url_pdf: http://link.springer.com/10.1007/s00442-020-04684-y
 doi: 10.1007/s00442-020-04684-y
 ---
