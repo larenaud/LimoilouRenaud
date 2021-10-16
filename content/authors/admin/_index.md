@@ -67,4 +67,4 @@ I studied animal ecology, finishing my PhD in 2019. I worked as a part-time lect
 
 I currently live in Rimouski, in the province of Québec, Canada, with my partner and my 17-year old cat. In a near future I will be on the quest of a permanent or tenure-track position, either as a research scientist or lecturer.
 
-This blog is built with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). Bokeh circles photo by [Sharon McCutcheon](https://unsplash.com/photos/62vi3TG5EDg) on Unsplash.
+This blog is bult with [blogdown](https://github.com/rstudio/blogdown) and [Hugo](https://gohugo.io/), and deployed using [Netlify](https://www.netlify.com/). Bokeh circles photo by [Sharon McCutcheon](https://unsplash.com/photos/62vi3TG5EDg) on Unsplash.
