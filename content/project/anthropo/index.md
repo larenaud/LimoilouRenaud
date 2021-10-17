@@ -1,6 +1,6 @@
 ---
 title: Global changes
-summary: At the core of my research interests are the ecological and evolutionary responses of organisms, in an era of anthropogenic changes. I focus on phenotypic plasticity in phenological, behavioural and ecosphysiological traits.
+summary: At the core of my research interests are the ecological and evolutionary responses of organisms to global changes. I focus on phenotypic plasticity in phenological, behavioural and ecosphysiological traits.
 date: "2016-04-27T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
