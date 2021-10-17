@@ -54,65 +54,28 @@ subtitle = ""
 #### Postdoctoral research fellow, Fisheries and Oceans Canada
 2021-present
 
-* Assess pregnancy rates in endangered beluga population based on progesterone concentration
+* Assess pregnancy rates in endangered beluga population based on blubber progesterone concentrations
 
 #### Postdoctoral research fellow, Université de Sherbrooke
 2020-2021
 
 * Develop capture-mark-recapture model to quantify pup abundance and pre-weaning survival in harbour seal
 
-#### Data Scientist, Stack Overflow
-2016-2019
+#### Lecturer, Université de Sherbrooke
+2019-2021
 
-* Analyze large datasets and build models to understand developers and the software industry, from tech ecosystems to how programmers search for jobs
-* Collaborate with data engineers, web developers, and product managers to implement models in production
-* Communicate the results of analyses, modeling, and tests through data visualization, interactive apps, and writing
+* Taught behavioural and terrestrial ecosystem ecology courses for biology and non-biology majors, utilizing online course management system and online homework.
+* Increased student engagement by employing problem-based learning.
 
-#### Data Scientist, Datassist
-2016
+#### Graduate Instructor/Research Assistant, Université de Sherbrooke
+2014-2019
 
-* Developed statistical survey weighting tools (implemented in R) for nonprofits, local governments, social service agencies, and others.
-* Analyzed complex data sets from clients to create clear and compelling reports, visualizations, and interactive apps.
-* Wrote educational materials for online courses to develop the data literacy of our clients around the world.
-
-#### Content Developer & Support Representative, Sapling Learning
-2012—2016
-
-* Created interactive online questions, solutions, feedback, and tutorials designed for college-level astronomy courses.
-* Reviewed questions authored by others for accuracy, style, and appropriate level.
-* In total, created or reviewed over 800 detailed, rich questions.
-* Assisted in project management and user acceptance testing projects.
-* Incorporated questions and other materials into customized, cohesive online course sites for instructors.
-* Provided individualized customer support for instructors and developed positive client relationships.
-
-#### Adjunct Professor, Quinnipiac University
-2006—2008
-
-* Taught physics, chemistry, astronomy, and earth science courses with accompanying lab courses for science and non-science majors, utilizing online course management system and online homework.
-* Increased student engagement and learning by employing cooperative instructional strategies.
-
-#### Adjunct Professor, University of New Haven
-2006—2008
-
-* Taught physics for non-science majors with accompanying lab course, utilizing online course management system and online homework.
-* Increased student engagement and learning by employing cooperative instructional strategies.
-
-#### Postdoctoral Researcher, Yale University
-2005—2006
-
-* Developed software for data analysis pipeline of Palomar-QUEST Survey
-* Worked with large data sets (survey generated ~70 GB per night) and integrated existing software of collaborators into pipeline.
-
-#### Graduate Instructor/Research Assistant, University of Texas at Austin
-2000—2005
-
-* Studied internal kinematics of nearby galaxies using infrared radiation to determine effects of dust.
-* Independently observed at McDonald Observatory (over 40 nights) and developed data analysis software tailored to research project.
+* Studied the effects of environmental variability on bighorn sheep maternal traits, using long-term datasets of individually marked animals.
 * Published first-author papers in refereed journals and presented research at national scientific meetings.
-* Independently coordinated and taught introductory astronomy observing lab for non-science majors, supervising other graduate student instructors and developing curriculum.
+* Taught introductory statistics for graduate students as part as the R Workshop Series by the [Quebec Center for Biodiversity Science (QCBS)](https://r.qcbs.ca). 
 
 ## Education
 
 * Université de Sherbrooke - PhD in biology, 2019
 * Université du Québec à Rimouski - MSc in wildlife & habitat management, 2012
-* Texas A&M University - BSc in Agric. & Env. Sciences, 2007
+* McGill University - BSc in agric. & env. sciences, 2007
