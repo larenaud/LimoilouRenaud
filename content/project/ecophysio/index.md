@@ -4,7 +4,7 @@ summary: In collaboration with Véronique Lesage at [Fisheries \& Oceans Canada]
 date: "2021-07-13T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://profils-profiles.science.gc.ca/fr/profil/veronique-lesage
+# external_link: https://profils-profiles.science.gc.ca/fr/profil/veronique-lesage
 
 image:
   caption: Group of beluga

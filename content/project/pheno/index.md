@@ -1,12 +1,12 @@
 ---
-title: Open Source Software
-summary: Develop R packages for the data science ecosystem, including the [tidytext](https://github.com/juliasilge/tidytext) package which is downloaded from CRAN about 40,000 times per month.
-date: "2018-04-27T00:00:00Z"
+title: Trophic mismatches in herbivores
+summary: Understanding the extent to which changes in phenology match across trophic levels has been one of my main research areas. I used long term data of individually marked [bighorn sheep](https://marco.recherche.usherbrooke.ca/marco.htm) to explore research questions related to reproductive and vegetation phenologies.  
+date: "2020-09-01T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-# external_link: https://github.com/juliasilge
+# external_link: https://marco.recherche.usherbrooke.ca/marco.htm
 
 image:
-  caption: tidytext
+  caption: Mismatch in bighorn sheep, created by Impact Media Lab
   focal_point: Smart
 ---
