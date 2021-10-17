@@ -59,7 +59,7 @@ subtitle = ""
 #### Postdoctoral research fellow, Université de Sherbrooke
 2020-2021
 
-* Develop capture-mark-recapture model to quantify pup abundance and pre-weaning survival in harbour seal
+* Developped capture-mark-recapture model to quantify pup abundance and pre-weaning survival in harbour seal
 
 #### Lecturer, Université de Sherbrooke
 2019-2021

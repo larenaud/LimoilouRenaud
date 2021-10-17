@@ -213,3 +213,14 @@ plugins_js  = []
 [cms]
   # See https://sourcethemes.com/academic/docs/install/#install-with-web-browser
   netlify_cms = true
+
+############################
+## Pulications - https://github.com/wowchemy/wowchemy-hugo-themes/issues/982
+############################
+
+[publications]
+  # ... PREVIOUS CODE ... #
+  # Link the title of the publication to the publication
+  links_title = false
+  # Link the authors of the publication to the list of publication made by this author
+  links_authors = false
