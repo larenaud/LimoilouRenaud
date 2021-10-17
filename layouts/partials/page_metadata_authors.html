@@ -9,7 +9,12 @@
     {{- if gt $index 0 }}, {{ end -}}
     <span>
       {{- if and $profile_page $link_authors -}}
-        <a href="{{$profile_page.RelPermalink}}">{{$name}}</a>
+        <!--a href="{{$profile_page.RelPermalink}}">{{$name}}</a-->
+        {{ if site.Params.publications.links_authors }} <!-- Create a link for authors of the publication -->
+  <a href="{{.RelPermalink}}">{{$name}}</a>
+{{- else -}}
+  <a>{{$name}}</a>
+{{- end -}}
       {{- else -}}
         {{$name}}
       {{- end -}}
